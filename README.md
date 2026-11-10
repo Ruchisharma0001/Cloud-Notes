@@ -1,2 +1,2 @@
 # Cloud-Notes
-Daily notes while learning Linux, AWS, Docker and Terraform.
+Daily notes while learning Linux, Networking, AWS, Docker and Terraform.
