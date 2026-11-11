@@ -1,0 +1,29 @@
+## Linux Basic Commands 
+
+# Linux is a operating system which is used by most of the servers.
+  By using commands, we can control the files and folders in terminal.
+
+pwd - Display full path of current directory
+cd - Change the current working directory
+cd .. -  Uppermost folder of the entire file system
+cd ~ - User's own folder
+ls - List files and directories present in current working
+cp - Copy files or directories
+mkdir - Create new directories or new folders
+touch - Create empty new files
+rmdir - Remove folder
+rm - Remove files permanently
+mv - Move or rename the files and folders
+echo - Display text in terminal
+cat - Display content of files
+whoami - Display the currrent user
+history - Display the history of the commands
+man ls or --help - Display command manuals and help
+uname - Display system information
+clear - Clear the terminal screen
+nano - Used to edit files
+less - Display large files page-wise
+tee -a - Overwrites existing files or adds new output without deleting previous
+cal - Dislpay the calender
+locate - Find files using a database
+sudo - run as an admin     (for ex., sudo apt update)
